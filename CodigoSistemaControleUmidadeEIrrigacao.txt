@@ -11,8 +11,8 @@ int UltimoEstSensor = 0;
 int ValAnalogIn; // Introduz o valor analógico ao código
 
 // Configurações da rede WiFi
-const char* ssid = "Asgard"; // Substitua pelo nome da sua rede WiFi
-const char* password = "adpires141"; // Substitua pela senha da sua rede WiFi
+const char* ssid = "xxxxx"; // Substitua pelo nome da sua rede WiFi
+const char* password = "xxxxx"; // Substitua pela senha da sua rede WiFi
 
 // Configurações do MQTT
 const char* mqtt_server = "test.mosquitto.org";
